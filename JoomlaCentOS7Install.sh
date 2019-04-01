@@ -44,7 +44,7 @@ root=root
 mysqladmin -u $root password $newpass
 echo $newpass
 
-#Setup new database and logins for Magento site.
+#Setup new database and logins for Joomla site.
 
 DBNAME=db
 NEWDBNAME=joomla$DBNAME
